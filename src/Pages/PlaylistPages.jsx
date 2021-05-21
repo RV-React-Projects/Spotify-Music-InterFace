@@ -298,7 +298,7 @@ function PlaylistPages() {
 		}
 	];
 
-	let { id } = useParams();
+// 	let { id } = useParams();
 	return (
 		<div className="playlistPage">
 			<div className="mainInner">
